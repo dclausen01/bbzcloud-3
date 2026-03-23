@@ -55,6 +55,7 @@ npm run dist          # Package for distribution
 
 - [stashcat-api](https://github.com/dclausen01/stashcat-api) – Stashcat API client
 - [bbzcloud-2](https://github.com/dclausen01/bbzcloud-2) – Previous version (WebView-based)
+- [stashcat-chat](https://github.com/dclausen01/stashcat-chat) - A Stashcat Chat UI Example
 
 ## License
 
